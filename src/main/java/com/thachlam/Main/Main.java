@@ -10,7 +10,7 @@ public class Main {
         Main m = new Main();
     }
     
-    private String checkUrlResult(String url){
-        return url;
+    private String checkUrlResult(String url, String check){
+        return url + check;
     }
 }
