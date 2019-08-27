@@ -13,4 +13,8 @@ public class Main {
     private String checkUrlResult(String url){
         return url;
     }
+    
+    public String test1(){
+        return checkUrlResult("this test1");
+    }
 }
