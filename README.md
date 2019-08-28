@@ -119,4 +119,4 @@ Make Solution => Coding => create new Pull Request => Review => (if this issue l
 
 However, we should consider more about this problem, luckily it show up in compile error, but more over, with the test file, with might not show complile error, the compile show ok, but when run the test code or in runtime it might not ok in unexpected way. <br>
 
-I learn that github that have some CLI checking for this issue. So hopefully forward to it, **SO HOPEFULLY**.
+I learn that github that have some CLI checking for this problem. So hopefully forward to it, **SO HOPEFULLY**.
