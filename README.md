@@ -2,7 +2,7 @@
 
 ### Explain for this Repository
 
-When we develop with a team the old development progress we do :
+When we develop with a team the old development progress we do : <br>
 Make Solution => Coding => create new Pull Request => Review => Merge master (if no conflicts - the merge mark green in git hub web) => hit merge button in github web => pull new master to prepare-deploy-machine => clean and build => Some unexpected `error` happen
 
 This is merge button
